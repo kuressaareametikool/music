@@ -1,0 +1,41 @@
+  <html>
+  <body style="background-color:#FFD85D;">
+  <style>
+ 
+  @import url(https://fonts.googleapis.com/css?family=Poiret+One);
+
+  h1 {
+    font-family: 'Poiret One', cursive;
+    font-size: 100px;
+    font-weight: normal;
+    color: darkgoldenrod
+  }
+  img, iframe{
+    width: 100%
+    display: block;
+  }
+  a{
+    color: black
+  }
+
+</style>
+
+<body>
+
+
+<h1>Guns N' Roses</h1>
+
+Guns N' Roses, often abbreviated as GNR, is an American hard rock band from Los Angeles, California, formed in 1985. When they signed to Geffen Records in 1986, the band comprised vocalist Axl Rose, lead guitarist Slash, rhythm guitarist Izzy Stradlin, bassist Duff McKagan, and drummer Steven Adler. The current lineup consists of Rose, Slash, McKagan, keyboardist Dizzy Reed, guitarist Richard Fortus, drummer Frank Ferrer and keyboardist Melissa Reese.
+
+<a href="https://en.wikipedia.org/wiki/Guns_N%27_Roses">
+  Source: Wikipedia
+</a>
+
+<a
+href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Guns_n´Roses_Palacio_de_los_Deportes_30-11-2016_%2831366316670%29.jpg/1200px-Guns_n´Roses_Palacio_de_los_Deportes_30-11-2016_%2831366316670%29.jpg">image</a>
+   <Source>Wikipedia</Source>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/GNR_London_Stadium_2017_3_%28cropped%29.jpg" width="700" height="394">
+
+
+
